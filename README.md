@@ -1,5 +1,5 @@
 ### Hi, I am Anastestia Onyekaba 👋
-<p align="center">
+<p>
  <br>
  :gem: Self- taught UI/UX Designer :dart: Self-taught Front-end(React js) Developer 
 </p>
